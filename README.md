@@ -6,4 +6,4 @@ Currently working on: Bitcoin Price Predicter, a self-trained AI that can predic
 
 Find more about me on my website
 
-https://wasimvorvoi.github.io/InfoSite/
+https://wasimvorvoi.github.io
