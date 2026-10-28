@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/throne.svg" width="100%" alt="Wasim Vorvoi on a throne, with his achievements orbiting around him"/></a>
+<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/hero.svg" width="100%" alt="Halftone portrait of Wasim Vorvoi"/></a>
 
 I'm a senior at South Brunswick High School in New Jersey. Most of what I build sits somewhere between AI, security and hardware, and a lot of it gets built in 24 hours at hackathons.
 
