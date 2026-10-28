@@ -262,6 +262,9 @@ def dexarm():
     p.append('<path d="M70 240h200" class="fine" stroke-dasharray="1 4"/>')
     p.append('<text x="70" y="258" class="p" font-size="10.5">servos</text>')
 
+    # thumb first, so the palm and fingers cover it as it swings in underneath
+    p.append(finger(424, 272, (42, 32, 22), (-42, -36, -20), 22, 0))
+
     # palm and wrist
     p.append('<path d="M300 160L340 152C400 146 452 154 474 170L478 252C472 270 444 280 414 282L304 264Z" class="solid"/>')
     p.append('<path d="M340 154L344 274" class="fine"/>')
@@ -278,8 +281,6 @@ def dexarm():
         p.append(f'<path d="M296 {190 + depth * 8}C360 {184 + depth * 6} 400 {y} {x - 8} {y}" class="fine" stroke-dasharray="3 3"/>')
         p.append(finger(x, y, lens, angles, wdt, depth))
 
-    # thumb, opposing from under the palm
-    p.append(finger(424, 276, (42, 32, 22), (-42, -36, -20), 22, 0))
 
     # grip sensor reading, rising as the hand closes
     gx, gy = 680, 286
