@@ -9,16 +9,16 @@ daily workflow in .github/workflows/skyline.yml reruns this and commits it.
 
     python scripts/build_skyline.py
 """
-import base64
 import datetime as dt
 import json
 import math
 import os
 import re
 import subprocess
-import urllib.parse
 import urllib.request
 from pathlib import Path
+
+from svgkit import font_face
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "skyline.svg"
@@ -60,17 +60,6 @@ def calendar():
     )
     cal = json.load(urllib.request.urlopen(req))["data"]["user"]["contributionsCollection"]["contributionCalendar"]
     return cal["totalContributions"], cal["weeks"]
-
-
-def font_face(family, weight, text, alias):
-    """Fetch a Google Font subset to exactly `text` and return an @font-face rule."""
-    q = urllib.parse.urlencode({"family": f"{family}:wght@{weight}", "text": "".join(sorted(set(text)))})
-    req = urllib.request.Request(f"https://fonts.googleapis.com/css2?{q}", headers={"User-Agent": UA})
-    css = urllib.request.urlopen(req).read().decode()
-    url = re.search(r"url\((https://[^)]+)\)", css).group(1)
-    data = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA})).read()
-    b64 = base64.b64encode(data).decode()
-    return f"@font-face{{font-family:'{alias}';src:url(data:font/woff2;base64,{b64}) format('woff2');font-weight:{weight};}}"
 
 
 def pt(w, d, lift=0.0):

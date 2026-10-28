@@ -8,11 +8,15 @@ Right now I'm:
 - co-CEO of Atmosphere, an AI assistant plugin for Roblox Studio.
 - contributing to [Vauxguard](https://zenodo.org/records/22848992), research on zero-shot deepfake voice detection that hit 86% accuracy.
 
+<img src="./assets/dexarm.svg" width="100%" alt="Line drawing of the Dexarm prosthetic hand closing and opening"/>
+
 This summer I was an advanced cybersecurity intern at NJCCIC, New Jersey's state cybersecurity agency. Earlier in the year my team placed in the top 2% of the Garden State Cyber CTF.
 
 ## Hackathons
 
 I've won prizes at 9 of the 16 hackathons I've entered.
+
+<img src="./assets/timeline.svg" width="100%" alt="Timeline of my 16 hackathons, with the 9 prize wins labelled"/>
 
 | Project | Award | Event | Built with |
 |---|---|---|---|
@@ -28,9 +32,13 @@ I've won prizes at 9 of the 16 hackathons I've entered.
 
 The latest one is [GimDrone](https://devpost.com/software/balldrone), a collision-resistant FPV drone for search and rescue, built at hackPHS 2026 with ExpressLRS, EdgeTX and Flutter.
 
+<img src="./assets/gimdrone.svg" width="100%" alt="Line drawing of GimDrone: a quadcopter inside a cage on a two-ring gimbal"/>
+
 ## What I use
 
 Mostly Python, TypeScript, Swift, C++ and Rust. PyTorch for models, React and Next.js for the web, Tauri for desktop, Flutter for mobile, and Arduino/ESP32 when it has to touch the real world.
+
+<img src="./assets/stack.svg" width="100%" alt="My languages and tools drawn as chips on a circuit board"/>
 
 ## Elsewhere
 
