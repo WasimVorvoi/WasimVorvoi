@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Wasim%20Vorvoi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Security%20%C2%B7%20Hardware%20%C2%B7%20Shipping%20fast&descAlignY=58&descSize=18" width="100%"/>
+<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/throne.svg" width="100%" alt="Wasim Vorvoi on a golden throne, surrounded by floating achievements"/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=9x+hackathon+winner;AI+Engineer+%40+VividSense+(assistive+tech);Co-CEO+%40+Atmosphere+(AI+for+Roblox+Studio);NJCCIC+Advanced+Cybersecurity+Intern;Deepfake+voice+detection+research+(86%25)" alt="Typing SVG" /></a>
 
