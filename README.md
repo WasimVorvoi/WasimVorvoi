@@ -1,58 +1,37 @@
-<div align="center">
+<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/throne.svg" width="100%" alt="Wasim Vorvoi on a throne, with his achievements orbiting around him"/></a>
 
-<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/throne.svg" width="100%" alt="Wasim Vorvoi on a golden throne, surrounded by floating achievements"/></a>
+I'm a senior at South Brunswick High School in New Jersey. Most of what I build sits somewhere between AI, security and hardware, and a lot of it gets built in 24 hours at hackathons.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=9x+hackathon+winner;AI+Engineer+%40+VividSense+(assistive+tech);Co-CEO+%40+Atmosphere+(AI+for+Roblox+Studio);NJCCIC+Advanced+Cybersecurity+Intern;Deepfake+voice+detection+research+(86%25)" alt="Typing SVG" /></a>
+Right now I'm:
 
-<p>
-<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://devpost.com/wasimvorvoi"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-<a href="https://wasimvorvoi.github.io"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=WasimVorvoi&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
-</p>
+- an AI engineer on the founding team of [VividSense](https://vividsenselabs.com), a student nonprofit making affordable assistive tech. We've raised $15K, tested with 20+ users, and our prosthetic arm, Dexarm, took 1st of 44 teams at LaunchSB.
+- co-CEO of Atmosphere, an AI assistant plugin for Roblox Studio.
+- contributing to [Vauxguard](https://zenodo.org/records/22848992), research on zero-shot deepfake voice detection that hit 86% accuracy.
 
-</div>
+This summer I was an advanced cybersecurity intern at NJCCIC, New Jersey's state cybersecurity agency. Earlier in the year my team placed in the top 2% of the Garden State Cyber CTF.
 
-## ⚡ About me
+## Hackathons
 
-High school senior in New Jersey (South Brunswick High School, Computer Science Academy). I build things where **AI, security and hardware** meet, and I usually build them in 24 hours.
-
-- 🏆 **Prize winner at 9 hackathons**: PeddieHacks, HackJPS, HackTCNJ, hackPHS, HackSB, MontyHacks and more
-- 🦾 **Founding Team Member & AI Engineer at [VividSense](https://vividsenselabs.com)**: student nonprofit building affordable assistive tech. Raised **$15K**, tested with **20+ users**, and **Dexarm** (a low-cost prosthetic arm) took **1st of 44 teams** at LaunchSB
-- 🎮 **Co-CEO of Atmosphere**: an AI assistant plugin for Roblox Studio with a paid Pro tier
-- 🔐 **NJCCIC Advanced Cybersecurity Intern** (2026) · **Top 2%** in the Garden State Cyber CTF
-- 🔬 **Contributor to [Vauxguard](https://zenodo.org/records/22848992)**: zero-shot, LLM-based deepfake voice detection, **86% accuracy**
-
-## 🏆 Hackathon wins
+I've won prizes at 9 of the 16 hackathons I've entered.
 
 | Project | Award | Event | Built with |
 |---|---|---|---|
-| [**AdaptFit**](https://devpost.com/software/adaptfit) | HS Track 1 Prize | PeddieHacks 2026 | React Native · MediaPipe · Fastify |
-| [**DocLAB**](https://devpost.com/software/doclab) | Public Choice | HackJPS 2026 | Rust/Tauri · PyTorch · LoRA · XGBoost |
-| [**SproutGO**](https://devpost.com/software/sproutgo) | Prize winner | MontyHacks IX (2026) | Next.js · Prisma · PostgreSQL |
-| [**WearWise**](https://devpost.com/software/wearwise-u8632l) | Most Innovative | HackTCNJ 2026 | React · Python · Gemini |
-| [**Clutch**](https://devpost.com/software/clutch-9zq6y1) | Winner | HackSB 2026 | Swift · Firebase |
-| [**SproutShare**](https://devpost.com/software/sproutshare-y04bdm) | 2nd Place + Best .Tech Domain | hackPHS 2025 | Next.js · Supabase · Leaflet |
-| [**Security SandBox**](https://devpost.com/software/project-v2r3j41gmlxo) | Prize winner | MontyHacks VIII (2025) | TypeScript · JavaScript |
-| [**VerifAI**](https://devpost.com/software/tick-tock-check) | Winner | HackSB 2025 | Python · OpenAI API |
-| **Diabetes Logger** | Winner | BRHS Hackathon 2024 | Python |
+| [AdaptFit](https://devpost.com/software/adaptfit) | HS Track 1 Prize | PeddieHacks 2026 | React Native, MediaPipe, Fastify |
+| [DocLAB](https://devpost.com/software/doclab) | Public Choice | HackJPS 2026 | Rust/Tauri, PyTorch, LoRA, XGBoost |
+| [SproutGO](https://devpost.com/software/sproutgo) | Prize winner | MontyHacks IX, 2026 | Next.js, Prisma, PostgreSQL |
+| [WearWise](https://devpost.com/software/wearwise-u8632l) | Most Innovative | HackTCNJ 2026 | React, Python, Gemini |
+| [Clutch](https://devpost.com/software/clutch-9zq6y1) | Winner | HackSB 2026 | Swift, Firebase |
+| [SproutShare](https://devpost.com/software/sproutshare-y04bdm) | 2nd Place, Best .Tech Domain | hackPHS 2025 | Next.js, Supabase, Leaflet |
+| [Security SandBox](https://devpost.com/software/project-v2r3j41gmlxo) | Prize winner | MontyHacks VIII, 2025 | TypeScript |
+| [VerifAI](https://devpost.com/software/tick-tock-check) | Winner | HackSB 2025 | Python, OpenAI API |
+| Diabetes Logger | Winner | BRHS Hackathon 2024 | Python |
 
-<sub>Latest build: <a href="https://devpost.com/software/balldrone"><b>GimDrone</b></a>, a collision-resistant search-and-rescue FPV drone (ExpressLRS · EdgeTX · Flutter), hackPHS 2026.</sub>
+The latest one is [GimDrone](https://devpost.com/software/balldrone), a collision-resistant FPV drone for search and rescue, built at hackPHS 2026 with ExpressLRS, EdgeTX and Flutter.
 
-## 🛠️ Tech stack
+## What I use
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,swift,cpp,rust,dart,html,css&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,react,nextjs,nodejs,tauri,flutter,firebase,supabase,postgres,tailwind&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=arduino,unity,blender,git,github,vercel,vscode&perline=10" />
-</p>
+Mostly Python, TypeScript, Swift, C++ and Rust. PyTorch for models, React and Next.js for the web, Tauri for desktop, Flutter for mobile, and Arduino/ESP32 when it has to touch the real world.
 
-## 📊 GitHub activity
+## Elsewhere
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=WasimVorvoi&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
-</div>
+[LinkedIn](https://www.linkedin.com/in/wasim-vorvoi-28870b275/) · [Devpost](https://devpost.com/wasimvorvoi) · [wasimvorvoi.github.io](https://wasimvorvoi.github.io)
