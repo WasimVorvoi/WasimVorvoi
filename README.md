@@ -47,12 +47,8 @@ High school senior in New Jersey (South Brunswick High School, Computer Science 
 <img src="https://skillicons.dev/icons?i=arduino,unity,blender,git,github,vercel,vscode&perline=10" />
 </p>
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WasimVorvoi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasimVorvoi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=WasimVorvoi&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
