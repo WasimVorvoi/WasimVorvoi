@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/wasim-vorvoi-28870b275/"><img src="./assets/hero.svg" width="100%" alt="Halftone portrait of Wasim Vorvoi"/></a>
+<img src="./assets/skyline.svg" width="100%" alt="My last year of GitHub contributions drawn as a city, one tower per day"/>
 
 I'm a senior at South Brunswick High School in New Jersey. Most of what I build sits somewhere between AI, security and hardware, and a lot of it gets built in 24 hours at hackathons.
 
@@ -9,8 +9,6 @@ Right now I'm:
 - contributing to [Vauxguard](https://zenodo.org/records/22848992), research on zero-shot deepfake voice detection that hit 86% accuracy.
 
 This summer I was an advanced cybersecurity intern at NJCCIC, New Jersey's state cybersecurity agency. Earlier in the year my team placed in the top 2% of the Garden State Cyber CTF.
-
-<img src="./assets/skyline.svg" width="100%" alt="My last year of GitHub contributions drawn as a city, one tower per day"/>
 
 ## Hackathons
 
