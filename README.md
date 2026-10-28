@@ -10,6 +10,8 @@ Right now I'm:
 
 This summer I was an advanced cybersecurity intern at NJCCIC, New Jersey's state cybersecurity agency. Earlier in the year my team placed in the top 2% of the Garden State Cyber CTF.
 
+<img src="./assets/skyline.svg" width="100%" alt="My last year of GitHub contributions drawn as a city, one tower per day"/>
+
 ## Hackathons
 
 I've won prizes at 9 of the 16 hackathons I've entered.
